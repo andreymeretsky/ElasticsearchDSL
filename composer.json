@@ -1,5 +1,5 @@
 {
-    "name": "ongr-copy/elasticsearch-dsl",
+    "name": "ongr-copy/elasticsearch-dsl-copy",
     "description": "Elasticsearch DSL library",
     "type": "library",
     "homepage": "http://ongr.io",
